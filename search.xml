@@ -1312,9 +1312,9 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1327,7 +1327,18 @@
       <link href="/contact/index.html"/>
       <url>/contact/index.html</url>
       
-        <content type="html"><![CDATA[<ul><li>Email: <a href="mailto:&#104;&#x61;&#x72;&#x72;&#121;&#x31;&#x30;&#49;&#x32;&#64;&#x66;&#x6f;&#120;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;">&#104;&#x61;&#x72;&#x72;&#121;&#x31;&#x30;&#49;&#x32;&#64;&#x66;&#x6f;&#120;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#x6f;&#x6d;</a> </li><li>QQ:550913732</li><li>网址: blog.harryup.cn</li><li>地址:📍青岛 市南区</li></ul><!-- <font size="3">👉加QQ前,还请先将[需求文档](document.html)发至以上邮箱!否则可能无法及时回复,感谢支持🙇</font>- [需求文档是什么?](document.html)- [项目合作须知](document.html) --><h3 id="🎧听歌"><a href="#🎧听歌" class="headerlink" title="🎧听歌"></a>🎧听歌</h3><iframe src="../my/music/index.html" width="100%" height="170" frameborder="0" scrolling="no"></iframe>]]></content>
+        <content type="html"><![CDATA[<ul><li>Email: <a href="mailto:&#x68;&#97;&#114;&#114;&#x79;&#x31;&#x30;&#49;&#x32;&#x40;&#102;&#111;&#x78;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;">&#x68;&#97;&#114;&#114;&#x79;&#x31;&#x30;&#49;&#x32;&#x40;&#102;&#111;&#x78;&#109;&#97;&#105;&#108;&#46;&#x63;&#x6f;&#109;</a> </li><li>QQ:550913732</li><li>网址: blog.ihogu.com</li><li>地址:📍青岛 市南区</li></ul><!-- <font size="3">👉加QQ前,还请先将[需求文档](document.html)发至以上邮箱!否则可能无法及时回复,感谢支持🙇</font>- [需求文档是什么?](document.html)- [项目合作须知](document.html) --><h3 id="🎧听歌"><a href="#🎧听歌" class="headerlink" title="🎧听歌"></a>🎧听歌</h3><iframe src="../my/music/index.html" width="100%" height="170" frameborder="0" scrolling="no"></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -1339,17 +1350,6 @@
       <url>/about/index.html</url>
       
         <content type="html"><![CDATA[<p>大家好,我是小秦,一个生活在青岛的程序员👩‍💻 </p><p>🏃跑步和🚴‍♀️骑自行车是我最喜欢的运动方式</p><p>👉座右铭:勿以恶小而为之,勿以善小而不为</p><p>感谢大家的关注和支持</p><!-- ---- 技术栈- 后端:PHP:Phalapi,Laravel,LNMP;Go:Gorm,Gin,Docker/Kubernetes;Java:Spring Boot,MyBatis- 前端:Vue/React,SASS/LESS,Ts,Electron,uniapp/Android原生插件- 数据库:MongoDB,MySql,PostgreSQL,Redis- 中间件:Node.js/Express/Nest; Python/selenium- 项目管理:notion/trello/screenmonitor --><hr><h1 id="🎧听歌"><a href="#🎧听歌" class="headerlink" title="🎧听歌"></a>🎧听歌</h1><iframe src="../my/music/index.html" width="100%" height="170" frameborder="0" scrolling="no"></iframe><h2 id="Note"><a href="#Note" class="headerlink" title="Note"></a>Note</h2><ul><li>由于作者水平有限,错落缺点在所难免,如果您发现任何问题欢迎批评指正</li><li>本站所有文章及源码均免费开放,如果能帮到您,我会很开心</li><li>欢迎转载,请在文章页面明显位置给出原文连接</li><li>感谢您花时间浏览我的站点</li></ul>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
